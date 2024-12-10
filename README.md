@@ -28,8 +28,8 @@ Hi there 👋 I am Michael Peter
 
 ### 🔗 Connect
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iammichaelpeter.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![XING](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](YOUR_XING_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-peter-07995a285/)
+[![XING](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Michael_Peter181/web_profiles?expandNeffi=true)
 
 ### Currently Exploring
 - Software Architecture
