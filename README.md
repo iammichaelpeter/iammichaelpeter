@@ -1,28 +1,42 @@
-Hi there 👋 My name is Michael Peter
+Hi there 👋 I am Michael Peter
 ============================
 
-Currently Exploring the magic of programming 🔮
+* Passionate software developer focused on crafting modern web applications.
 ------------------------------
 
-Economics Student, with the will to learn coding, watching YT videos, reading articles and spending a lot of time on Stack Overflow.
+### 🛠 Tech Stack
 
-* 🌍  Near Nürnberg, Germany
-* 🏫 Studying at TH Nürnberg George Simon Ohm
-
-### Playing around with 🕹️
-
+#### Frontend
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://ngrx.io/assets/images/badge.svg" width="36" height="36" alt="NgRx" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</p>
+
+#### Backend / BaaS
+<p align="left">
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-  
-### Badges
+</p>
 
-<b>My GitHub Stats for Motivation</b>
+#### Tools & Methods
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-<a href="http://www.github.com/iammichaelpeter"><img src="https://github-readme-stats.vercel.app/api?username=iammichaelpeter&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iammichaelpeter's GitHub stats" /></a>
+### 🔗 Connect
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iammichaelpeter.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![XING](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](YOUR_XING_URL)
+
+### Currently Exploring
+- Software Architecture
+- Advanced Angular Patterns
+- Spring Boot
+- Domain Driven Design
+- Supabase Infra Repo
+
+---
+*Currently working on personal projects to deepen my understanding of software architecture and design patterns.*
